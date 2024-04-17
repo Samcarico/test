@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+}
+
+/*------------------------- Login View -------------------------------------*/
+
+#Login{
+  display: grid;
+  height: 100vh;
+  place-items: center;
+}
+
+#Login > .containerLogin {
+    width: 80%;
+    height: 70%;
+    border: solid red;
+}
